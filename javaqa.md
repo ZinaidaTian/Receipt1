@@ -13,3 +13,13 @@ https://github.com/ZinaidaTian/Receipt1.git
 *Фактический результат:*Вывод сообщения о налоге на второй системе в -4500 рублей
 # Скриншот 
 ![image]( /assets/Screenshot_1.png "Optional Title") 
+# Окружение
+* **Операционная система:** Выпуск	Windows 11 Pro
+Версия	21H2
+Дата установки	‎02.‎07.‎2022
+Сборка ОС	22000.978
+* **IDE:** IntelliJ IDEA 2020.2(Community Edition)
+* **Java:** OpenJDK 11
+  
+
+ 
